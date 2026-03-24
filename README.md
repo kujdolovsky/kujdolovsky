@@ -1,11 +1,14 @@
-## Hi there 👋
+## Hello 👋
+Mam na imię Łukasz, studiuję automatykę i robotykę. Uwielbiam widzieć efekty swojej pracy, dlatego chętnie biorę udział w projektach, które łączą software i software.
+My name is Lukasz, I'm currently studying Automation and Robotics at Warsaw University of Tecvhnology. I love to see the results of my work in the real world so I like working on projects combining software and hardware the most.
 
 <!--
 **kujdolovsky/kujdolovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on An object tracking system. 
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
