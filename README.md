@@ -1,5 +1,4 @@
 ## Hello 👋
-Mam na imię Łukasz, studiuję automatykę i robotykę. Uwielbiam widzieć efekty swojej pracy, dlatego chętnie biorę udział w projektach, które łączą software i software.
 My name is Lukasz, I'm currently studying Automation and Robotics at Warsaw University of Tecvhnology. I love to see the results of my work in the real world so I like working on projects combining software and hardware the most.
 
 <!--
