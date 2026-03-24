@@ -4,7 +4,7 @@ I'm Lukasz, an Automation and Robotics student at Warsaw University of Technolog
 
 I enjoy working on projects that combine software and hardware, especially when I can see real-world results of my work.
 
-Check out my latest projects below 👇
+Check out my latest public projects below 👇
 
 <!--
 **kujdolovsky/kujdolovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
